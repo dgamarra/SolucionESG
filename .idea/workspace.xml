@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbe7e8ba-a548-49eb-9d65-8b573a2fc046" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/SolucionESG.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logica/EcuacionSegundoGrado.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/TestEcuacionSegundoGrado.py" afterDir="false" />
+    <list default="true" id="bbe7e8ba-a548-49eb-9d65-8b573a2fc046" name="Changes" comment="Solucion de la ecuación de segundo grado - Raices reales">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/TestEcuacionSegundoGrado.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TestEcuacionSegundoGrado.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +82,20 @@
       <option name="presentableId" value="Default" />
       <updated>1715812088401</updated>
     </task>
+    <task id="LOCAL-00001" summary="Solucion de la ecuación de segundo grado - Raices reales">
+      <option name="closed" value="true" />
+      <created>1715814111430</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715814111430</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Solucion de la ecuación de segundo grado - Raices reales" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solucion de la ecuación de segundo grado - Raices reales" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -101,7 +107,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/tests/TestEcuacionSegundoGrado.py</url>
-          <line>13</line>
+          <line>15</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
